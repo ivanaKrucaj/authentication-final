@@ -65,3 +65,6 @@ app.use('/', indexRouter);
 app.use('/', authRouter);
 
 module.exports = app;
+
+
+ console.log('Hello')
