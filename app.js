@@ -52,7 +52,8 @@ app.use(session({
     })
 }));
 
-//some comment
+//some comment:
+console.log('Hello')
 
 
 // a body parser to allow us to parse form submissions
